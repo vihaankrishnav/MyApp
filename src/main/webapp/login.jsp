@@ -50,16 +50,16 @@ button:hover{
 
 <div class="login-box">
 
-<h2>Simple Login</h2>
+<h2>Login Setup</h2>
 
 <form action="login" method="post">
 
-<label>Username</label>
+<label>Enter the Username</label>
 <input type="text" name="username" required>
 
 <br><br>
 
-<label>Password</label>
+<label>Enter the password</label>
 <input type="password" name="password" required>
 
 <br>
